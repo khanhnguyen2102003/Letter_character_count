@@ -7,7 +7,6 @@ package lettercharactercout;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-
 import java.util.StringTokenizer;
 
 public class LetterCharacterCount {
